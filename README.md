@@ -25,7 +25,7 @@
 
 计算各属性（包括"charges"）之间的关联度，绘制热力图，并将各属性和"charges"之间的关联度从小到大排序，如下所示。
 
-<img src="https://github.com/0-KaiKai-0/BUAA_ML_Medical-Charges/blob/main/18376247_%E5%BC%80%E8%81%9A%E5%AE%9E_%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.assets/image-20210106201605421.png" alt="image-20210106201605421" style="zoom: 67%;" />
+<img src="https://github.com/0-KaiKai-0/BUAA_ML_Medical-Charges/tree/main/images/image-20210106201605421.png" alt="image-20210106201605421" style="zoom: 67%;" />
 
 |  属性  |  region   |   sex    | children |   bmi    |   age    |  smoker  | charges  |
 | :----: | :-------: | :------: | :------: | :------: | :------: | :------: | :------: |
